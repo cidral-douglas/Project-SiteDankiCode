@@ -1,6 +1,6 @@
 # Site Danki Code
 
-![Screenshot](Site DankiCode.png)
+![Screenshot](SiteDankiCode.png)
 
 * 4º projeto, feito em HTML, CSS e JavaScript.
 * Projeto desenvolvido no curso de Front-End da Danki Code.
